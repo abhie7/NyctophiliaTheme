@@ -1,4 +1,4 @@
-#Nyctophilia - Dark Theme
+# Nyctophilia - Dark Theme
 
 Nyctophilia is a Visual Studio Code theme designed for late-night coding sessions, tailored to provide a dark background with high contrast for enhanced readability and a comfortable coding experience during night-time.
 
