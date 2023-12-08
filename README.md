@@ -1,16 +1,20 @@
-# nyctophilia-color-theme README
+# Nyctophilia - Dark Theme
 
-## Working with Markdown
+Nyctophilia is a Visual Studio Code theme designed for late-night coding sessions, tailored to provide a dark background with high contrast for enhanced readability and a comfortable coding experience during night-time.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Screenshots
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![Screenshot](https://i.imgur.com/sH1eWpr.png "Optional title")
 
-## For more information
+## Features
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- **Dark Background:** Optimal for reducing eye strain in low-light environments.
+- **Poppy Syntaxes:** Vivid and distinct syntax highlighting for improved code comprehension.
 
-**Enjoy!**
+## Installation
+
+1. Open Visual Studio Code.
+2. Navigate to the Extensions view (`Ctrl+Shift+X` or `Cmd+Shift+X`).
+3. Search for "Nyctophilia - Dark Theme".
+4. Click "Install" to apply the theme.
+5. Once installed, go to `Settings > Color Theme` and select "Nyctophilia - Dark Theme" from the dropdown.
